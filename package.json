@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-remove-config",
+  "version": "1.0.0",
+  "description": "parses over debug logging scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "keywords": [
+    "eslintplugin"
+  ],
+  "author": "graham baker",
+  "license": "ISC"
+}
