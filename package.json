@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-remove-config",
+  "name": "atg-eslint-plugin-remove-config",
   "version": "1.0.0",
   "description": "parses over debug logging scripts",
   "main": "index.js",
@@ -16,5 +16,6 @@
     "eslintplugin"
   ],
   "author": "graham baker",
-  "license": "ISC"
+  "private": true,
+  "license": "PROPRIETARY"
 }
