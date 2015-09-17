@@ -1,5 +1,5 @@
 {
-  "name": "atg-eslint-plugin-remove-config",
+  "name": "eslint-plugin-remove-verbose-logs",
   "version": "1.0.0",
   "description": "parses over debug logging scripts",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-      "registry": "https://npm.accretivetg.com"
+      "registry": "http://npmjs.com/~"
   },
   "dependencies": {
     "simple-text-parser": "*"
@@ -16,6 +16,5 @@
     "eslintplugin"
   ],
   "author": "graham baker",
-  "private": true,
-  "license": "PROPRIETARY"
+  "license": "MIT"
 }
