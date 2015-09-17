@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "gitolite@git.accretivetg.com:naiad.liveservices.streaming"
+    "url": "https://github.com/ggrahambaker/eslint-plugin-remove-verbose-logs.git"
   },
   "dependencies": {
     "simple-text-parser": "*"
