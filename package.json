@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-      "registry": "http://npmjs.com/~"
+      "registry": "http://npmjs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitolite@git.accretivetg.com:naiad.liveservices.streaming"
   },
   "dependencies": {
     "simple-text-parser": "*"
